@@ -9,15 +9,15 @@
 
 ## شروع دوره
 
-- [درس اول: مقدمه‌ای بر برنامه‌نویسی غیرهمزمان](./lessons/01-intro/01-intro.md)
+- [درس اول: مقدمه‌ای بر برنامه‌نویسی غیرهمزمان](./lessons/01-intro/README.md)
 
 ---
 
 ## فهرست درس‌ها
 
-1. [مقدمه](./lessons/01-intro/01-intro.md)
-2. [زمان بیکاری (Idle Time)](./lessons/02-idle-time/01-idle-time.md)
-3. [تسک‌ها و حلقهٔ رویداد (Tasks & Event Loop)](./lessons/03-tasks-and-event-loop/03-tasks-and-event-loop.md)
+1. [مقدمه](./lessons/01-intro/README.md)
+2. [زمان بیکاری (Idle Time)](./lessons/02-idle-time/README.md)
+3. [تسک‌ها و حلقهٔ رویداد (Tasks & Event Loop)](./lessons/03-tasks-and-event-loop/README.md)
 
 
 ---
