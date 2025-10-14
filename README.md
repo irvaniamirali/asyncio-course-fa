@@ -18,6 +18,9 @@
 1. [مقدمه](./lessons/01-intro/README.md)
 2. [زمان بیکاری (Idle Time)](./lessons/02-idle-time/README.md)
 3. [تسک‌ها و حلقهٔ رویداد (Tasks & Event Loop)](./lessons/03-tasks-and-event-loop/README.md)
+4. [دانلود هم‌زمان چند فایل با asyncio](./lessons/04-download-files/README.md)
+5. [‏async و await دقیقاً چطور کار می‌کنن](./lessons/05-async-await/README.md)
+6. [ماجرای event loop و چطور کار می‌کنه](./lessons/06-event-loop-deepdive/README.md)
 
 
 ---
