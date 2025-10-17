@@ -82,4 +82,9 @@ asyncio.run(main())
 ‏async همیشه بهتر نیست. اگه برنامه‌ت کار CPU زیادی انجام می‌ده (مثلاً پردازش تصویر)، async کمکی نمی‌کنه.
 اما برای کارهای I/O مثل خوندن فایل، درخواست شبکه یا کار با دیتابیس‌های async عالیه.
 
----
+
+
+<p align="center">
+<a href="../06-event-loop-deepdive/README.md">درس قبلی</a>
+&nbsp; | &nbsp;
+<a href="../08-task-management-and-errors/README.md">درس بعدی</a>
