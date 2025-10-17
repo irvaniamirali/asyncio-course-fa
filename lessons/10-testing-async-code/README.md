@@ -160,4 +160,9 @@ async def test_concurrent_increment():
 * خطاها و timeoutها تحت کنترل هستن
 * برنامه قابل نگهداری، قابل اعتماد و آماده توسعه است
 
----
+
+
+<p align="center">
+<a href="../09-structuring-async-programs/README.md">درس قبلی</a>
+&nbsp; | &nbsp;
+<a href="../11-async-downloader/README.md">درس بعدی</a>
