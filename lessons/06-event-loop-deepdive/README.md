@@ -115,4 +115,9 @@ asyncio.run(show_loop())
 * با event loop می‌شه چند کار رو هم‌زمان انجام داد بدون اینکه برنامه قفل کنه.
 * تابع asyncio.run خودش یه event loop می‌سازه و بعد از پایان کار اونو می‌بنده.
 
----
+
+
+<p align="center">
+<a href="../05-download-files/README.md">درس قبلی</a>
+&nbsp; | &nbsp;
+<a href="../07-async-io-in-practice/README.md">درس بعدی</a>
