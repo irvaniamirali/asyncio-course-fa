@@ -140,4 +140,9 @@ asyncio.run(main())
 همهٔ این مفاهیم پایه‌ای برای ساخت سیستم‌های واقعی و قابل اعتماد هستن.
 از این به بعد، async فقط یه ابزار نیست — بلکه یه روش حرفه‌ای برای کنترل رفتار برنامه‌ست.
 
----
+
+
+<p align="center">
+<a href="../07-async-io-in-practice/README.md">درس قبلی</a>
+&nbsp; | &nbsp;
+<a href="../09-structuring-async-programs/README.md">درس بعدی</a>
