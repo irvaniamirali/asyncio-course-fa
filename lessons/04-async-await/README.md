@@ -105,5 +105,8 @@ print(result)
 
 ---
 
-در درس بعدی قراره بریم سراغ همین event loop و ببینیم پایتون چطور بین coroutineها جابه‌جا می‌شه و نظم اجرا رو حفظ می‌کنه.
 
+<p align="center">
+<a href="../03-tasks-and-event-loop/README.md">درس قبلی</a>
+&nbsp; | &nbsp;
+<a href="../05-download-files/README.md">درس بعدی</a>
