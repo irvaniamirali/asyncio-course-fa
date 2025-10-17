@@ -78,4 +78,8 @@ Goodbye!
 
 ---
 
-درس بعدی می‌تونه جایی باشه که چند تا وظیفه رو هم‌زمان اجرا کنیم تا ببینیم چطور میشه واقعاً حس «async» رو لمس کرد!
+<p align="center">
+<a href="../02-idle-time/README.md">درس قبلی</a>
+&nbsp; | &nbsp;
+<a href="../04-async-await/README.md">درس بعدی</a>
+</p>
