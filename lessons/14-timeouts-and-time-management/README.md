@@ -229,4 +229,9 @@ asyncio.run(main())
 * تایم‌اوت‌ها رو معقول انتخاب کن؛ نه خیلی کوتاه که false-positive بشه و نه خیلی طولانی که فایده‌ای نداشته باشه.
 * وقتی توابع blocking رو در thread اجرا می‌کنی، فرض کن کانسلیشن تاثیری روی آن‌ها نداره و طراحی‌ات را مطابق با این فرض انجام بده.
 
----
+
+
+<p align="center">
+<a href="../13-blocking-calls-in-async/README.md">درس قبلی</a>
+&nbsp; | &nbsp;
+<a href="../15-task-cancellation/README.md">درس بعدی</a>
