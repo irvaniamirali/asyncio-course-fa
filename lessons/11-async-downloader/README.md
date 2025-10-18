@@ -173,28 +173,8 @@ async def save_file(filename, content):
 
 ---
 
-## تست downloader
 
-برای اطمینان از عملکرد downloader، باید تست بنویسیم:
-
-* تست fetcher با URLهای واقعی و mock شده
-* تست saver با tmp_path
-* تست کل pipeline با asyncio.gather و بررسی تعداد فایل‌ها
-
-این کار باعث می‌شه برنامه مطمئن و پایدار باشه.
-
----
-
-## جمع‌بندی
-
-در این درس یاد گرفتیم:
-
-* چطور یک پروژه واقعی async بسازیم
-* ساختار پوشه‌ای مناسب و تقسیم مسئولیت‌ها
-* مدیریت concurrency با Semaphore
-* ذخیره async فایل‌ها با aiofiles
-* مدیریت خطاها و retry
-* اضافه کردن log برای مشاهده وضعیت
-* نوشتن تست برای downloader
-
----
+<p align="center">
+<a href="../10-testing-async-code/README.md">درس قبلی</a>
+&nbsp; | &nbsp;
+<a href="../12-sync-primitives/README.md">درس بعدی</a>
